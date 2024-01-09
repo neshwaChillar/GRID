@@ -11,6 +11,7 @@
 		2791FBA42B184AF000BE7B27 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2791FBA32B184AF000BE7B27 /* ContentView.swift */; };
 		2791FBA62B184AF300BE7B27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2791FBA52B184AF300BE7B27 /* Assets.xcassets */; };
 		2791FBA92B184AF300BE7B27 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2791FBA82B184AF300BE7B27 /* Preview Assets.xcassets */; };
+		2791FBB02B184B2500BE7B27 /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2791FBAF2B184B2500BE7B27 /* Framework.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2791FBA32B184AF000BE7B27 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2791FBA52B184AF300BE7B27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2791FBA82B184AF300BE7B27 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2791FBAF2B184B2500BE7B27 /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2791FBA12B184AF000BE7B27 /* Apple_FrameworkApp.swift */,
 				2791FBA32B184AF000BE7B27 /* ContentView.swift */,
+				2791FBAF2B184B2500BE7B27 /* Framework.swift */,
 				2791FBA52B184AF300BE7B27 /* Assets.xcassets */,
 				2791FBA72B184AF300BE7B27 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2791FBA42B184AF000BE7B27 /* ContentView.swift in Sources */,
+				2791FBB02B184B2500BE7B27 /* Framework.swift in Sources */,
 				2791FBA22B184AF000BE7B27 /* Apple_FrameworkApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
